@@ -7,9 +7,10 @@ Here’s a guide to kick off the project:
 Download all folders related to the admin client and server from the provided GitHub link. andBegin the setup process.
 Configure Git for the project.
 
-Add the .env file in all three folders:
+Fill the .env file in all three folders:
+
 Register for account on Firebase. For the admin .env file, please fill in the following details:
-REACT_APP_BASE_URL = http://localhost:8000
+REACT_APP_BASE_URL = 
 REACT_APP_FIREBASE_API_KEY = ""
 REACT_APP_FIREBASE_AUTH_DOMAIN = ""
 REACT_APP_FIREBASE_PROJECT_ID = ""
@@ -18,7 +19,7 @@ REACT_APP_FIREBASE_MESSAGING_SENDER_ID = ""
 REACT_APP_FIREBASE_APP_ID = ""
 
 Register for account on Firebase. Next, complete the client .env file by entering the details below to match the admin .env file:
-REACT_APP_API_URL=http://localhost:8000
+REACT_APP_API_URL=
 REACT_APP_RAZORPAY_KEY_ID=
 REACT_APP_RAZORPAY_KEY_SECRET=
 REACT_APP_FIREBASE_API_KEY=""
