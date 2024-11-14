@@ -42,6 +42,5 @@ Begin by starting the server, then proceed to launch the admin, and finally, ope
 
 You have the freedom to design the website however you like, or you can choose to replicate the one provided in the link.
 
-Thank-you
 
 
